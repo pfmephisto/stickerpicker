@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "DevilInYou.json",
+    "VeryBadGirl.json"
+  ],
+  "homeserver_url": "https://matrix.sonne-frederiksen.com"
+}
